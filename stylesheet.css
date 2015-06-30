@@ -1,0 +1,24 @@
+html, body,h1,h2,h3,h4,ul,ol,li,p,a{
+	padding:0;
+	border:0;
+	margin:0;
+}
+.h-p-nav li a{
+	text-decoration: none;
+	font-size: 12px;
+	font-family: arial; 
+	color:#000000;
+}
+.h-p-nav li a:hover{
+	color:#EF4B25;
+}
+.container h2{
+	font-family:'Open Sans';
+	color:#000000;
+	font-size: 16px;
+}
+.container h1{
+	font-size: 32px;
+	color:#EF4B25;
+	font-family: arial, sans-serif;
+}
